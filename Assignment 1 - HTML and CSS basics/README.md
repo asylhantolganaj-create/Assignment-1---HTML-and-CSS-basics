@@ -2,34 +2,64 @@
 
 ## Student Information
 * **Name:** Asylkhan Tolganai
-* **Group:** SE (Software Engineering)
+* **Group:** SE-2538
+
+## Project Overview
+This project is a personal portfolio webpage built from scratch using HTML5 and CSS3 as part of Assignment 1. The goal was to understand the fundamentals of web layout, semantic elements, CSS selectors, styling, positioning, and forms, and to publish the webpage live on GitHub Pages.
 
 ---
 
-## Objective
-The objective of this assignment is to build a structured, styled, and responsive personal webpage using HTML5 and CSS3, demonstrating key concepts such as text structuring, lists, images, tables, forms, CSS selectors, the box model, positioning, and publishing via GitHub Pages.
-
----
-
-## Assignment Steps & Implementation
+## Tasks Completed & Screenshots
 
 ### Part 1: Introduction to HTML
-* **Boilerplate & Text Structuring:** Created `index.html` with basic HTML structure, headings (`<h1>`-`<h3>`), and personal introduction paragraph.
-* **Lists:** Implemented an ordered list (`<ol>`) for hobbies and an unordered list (`<ul>`) for favorite links.
-* **Images & Links:** Embedded profile picture (`me.jpg`) and clickable links to external sites using `<a>`.
-* **Buttons:** Added interactive button element.
+* Created the basic HTML boilerplate structure (`index.html`).
+* Structured headings (`<h1>` to `<h3>`), intro paragraphs, and location info.
+* Added an ordered list (`<ol>`) for hobbies and an unordered list (`<ul>`) for favorite websites.
+* Inserted profile image (`<img>`) and functional links (`<a>`).
+* Added interactive buttons.
 
-### Part 2: Intermediate HTML
-* **Tables:** Constructed a weekly class schedule table containing 3 columns (`Subject`, `Day`, `Time`).
-* **Emojis:** Expressed current mood using Unicode emojis inside paragraphs.
-* **Forms:** Formed an interactive contact form with text input, email input, color picker, and a submit button.
-
-### Part 3 & 4: CSS Styling & Layout
-* **Selectors:** Applied element, class (`.highlight`), and ID (`#main-heading`) selectors.
-* **Inline, Internal & External CSS:** Configured styling in an external `style.css` stylesheet linked via `<head>`.
-* **Box Model & Layout:** Customized margins, padding, borders, and rounded card styling.
-* **CSS Positioning & Float:** Demonstrated `relative` positioning alongside `float: left`, `float: right`, and `clear: both`.
+<img width="759" height="443" alt="image" src="https://github.com/user-attachments/assets/089789d5-d777-43fe-aea9-575e610911c7" />
 
 ---
 
-## Work Summary & Reflection
+### Part 2: Intermediate HTML
+* Built a structured table displaying a weekly class schedule.
+* Integrated emojis into the mood section.
+* Created a contact form with `text`, `email`, and `color` input fields and a submit button.
+
+<img width="752" height="443" alt="image" src="https://github.com/user-attachments/assets/cb57c902-e037-40b2-b008-911b0ccfaad5" />
+
+---
+
+### Part 3: Introduction to CSS
+* Created an external stylesheet (`style.css`) and linked it to the HTML document.
+* Implemented element selectors, class selectors (`.highlight`, `.card`, `.btn`), and ID selectors (`#main-heading`).
+* Designed background colors, text styling, and custom Google Fonts (`Inter`).
+
+<img width="781" height="422" alt="image" src="https://github.com/user-attachments/assets/e6ce846a-2390-412f-bf05-9e22d0696a3a" />
+
+---
+
+### Part 4: Intermediate CSS
+* Added a custom favicon to the browser tab.
+* Used `<div>` elements and structured layout components using the CSS Box Model (padding, borders, margins).
+* Implemented relative positioning and floating elements (`float: left`, `float: right`, `clear: both`).
+* Added interactive JavaScript functionality for button actions.
+
+
+
+---
+
+## Summary of Work Process
+1. **Structuring:** Planned the logical layout of the page using semantic HTML tags (`<header>`, `<main>`, `<section>`).
+2. **Styling:** Applied CSS properties for colors, fonts, margins, flexbox, grid, and hover effects to create a modern UI.
+3. **Refining & Interactivity:** Fixed syntax errors, implemented JavaScript click handlers, and verified layout demo behaviors for CSS floats and positioning.
+4. **Deployment:** Pushed all project files to a public GitHub repository and enabled GitHub Pages for live viewing.
+
+---
+
+## Reflection
+Building this project helped reinforce fundamental concepts of Web Development. I gained hands-on experience with semantic structuring, CSS layout techniques, box-model calculations, and deploying static websites through Git and GitHub Pages.
+
+
+
